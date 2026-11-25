@@ -34,14 +34,6 @@ I personally finished the lab at **98%**, which is due to a few minor configurat
   I used the **actual VLAN numbers** for my standby groups instead.  
 - Jeremy configured a **priority of 105**, while I used **110**.  
 
-While these differences slightly lowered my score, they do not affect the lab’s functionality. I chose to leave them as-is to demonstrate alternative valid approaches rather than follow the lab word-for-word.  
-
-🖼️ **Lab Scoring:**  
-![Lab Scoring](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Lab_Score/LAB_SCORE.PNG)
-
-⚠️ **Incorrect Items:**  
-![Incorrect Items](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Lab_Score/INCORRECT_ITEMS.PNG)
-
 ---
 
 ## 🌐 Network Topology  
@@ -57,39 +49,36 @@ The **WLAN** includes:
 - 📶 Two managed **Lightweight Access Points (LWAPs)**  
 
 **Network Topology Diagram:**  
-![Network Topology](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Diagrams/Network_Topology.png)
+![Network Topology](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Diagram/Network_Topology.png)
 
 ---
-
 ## 🧪 Verification & Testing  
-
 ### 🖥️ Updated Image on R1  
-[View Configuration](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/IMAGE_UPDATED_FLASH.txt)
+[View Configuration](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/IMAGE_UPDATED_FLASH.txt)
 
 ### 📋 DHCP Pools  
-[View DHCP Pools](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/IP_DHCP_POOLS.txt)
+[View DHCP Pools](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/IP_DHCP_POOLS.txt)
 
 ### 🌍 IP Routing (IPv4 & IPv6)  
-- [OSPF Database & IPv4 Routes](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/OSPF_DATABASE_WITH_IP_ROUTE.txt)  
-- [IPv6 Routing Table](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/IPV6_Route.txt)
+- [OSPF Database & IPv4 Routes](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/IP_DHCP_POOLS.txt)  
 
 ### 🌐 NAT (Network Address Translation)  
-![NAT with DNS](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/NAT_W_DNS.png)
+![NAT with DNS](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/NAT_W_DNS.png)
 
 ### 🔗 EtherChannel & HSRP  
-![EtherChannel and HSRP](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/L2_AND_L3_ETHER_AND_HSRP.PNG)
+![EtherChannel and HSRP](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/L2_AND_L3_ETHER_AND_HSRP.PNG)
 
 ### 🔄 VTP (Client/Server)  
-![VTP v2 Configuration](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/VTP_V2_SERVER_CLIENT.PNG)
+![VTP v2 Configuration](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/VTP_V2_SERVER_CLIENT.PNG)
 
 ### 🔒 Security (ARP Inspection / DHCP Snooping / Port Security)  
-- [ARP & DHCP Snooping Verification](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/ARP_INS_DHCP_SNOOP_VERIFICATION.txt)  
-- [Port Security (Access Ports)](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/PORT_SECURITY_ACCESSPORTS.txt)
+- [ARP & DHCP Snooping Verification](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/ARP_INS_DHCP_SNOOP_VERIFICATION.txt)  
+- [Port Security (Access Ports)](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/PORT_SECURITY_ACCESSPORTS.txt)
 
 ### 📡 WLC Settings  
-![WLAN Profile / ESS](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/WLAN_PROFILE_WIFI_ESS.PNG)  
-![WLC Access Points](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/WLC_APS.PNG)  
-![WLC Interfaces](https://github.com/Alpha-Om3ga/CCNA_MEGA_LAB/blob/main/Verification_Testing/WLC_INTERFACES.PNG)
+![WLAN Profile / ESS](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/WLAN_PROFILE_WIFI_ESS.PNG)  
+![WLC Access Points](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/WLC_APS.PNG)  
+![WLC Interfaces](https://github.com/mahmoodsaeedM/CCNA-MEGA-Project-/blob/main/Verification_Testing/WLC_INTERFACES.PNG)
 
 ---
 
@@ -153,4 +142,4 @@ CCNA_MEGA_LAB/
 ## 🎓 Credits  
 
 **Original Lab Creator:** [Jeremy’s IT Lab](https://www.jeremysitlab.com/)  
-*Modified & Documented By:** [Alpha-Om3ga](https://github.com/MahmoudSaeedM) * 
+*Modified & Documented By:** [Mahmoud Saeed](https://github.com/mahmoodsaeedM) * 
